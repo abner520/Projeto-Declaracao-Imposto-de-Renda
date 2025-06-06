@@ -50,7 +50,7 @@ Este é um projeto que desenvolvi como parte de um desafio da Digital Innovation
 <p align="center">
 <img 
     src="./Visual/pg3.png"
-    width="300"
+    width="700"
 />
 </p>
 
